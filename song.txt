@@ -4,3 +4,4 @@ my third song line
 my fourth song line in 'feature' branch
 my fifth song line in 'feature' branch
 my 6th song line in 'master' branch
+my 7th song line in 'master' branch to conflict
